@@ -1,9 +1,7 @@
 .header-container{
     display: flex;
     background-color: #1F2937;
-    margin: 0 auto;
     padding: 20px;
-
 }
 .body-container{
     display: flex;
@@ -24,4 +22,20 @@
     display: flex;
     background-color: #1F2937;
     padding: 20px;
+}
+.nav-container{
+    display: flex;
+    background-color: #1F2937;
+    padding: 20px;
+}
+img{
+    width: 500px;
+    height: 200px;
+    background-color: grey;
+}
+.img-text{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
