@@ -1,0 +1,27 @@
+.header-container{
+    display: flex;
+    background-color: #1F2937;
+    margin: 0 auto;
+    padding: 20px;
+
+}
+.body-container{
+    display: flex;
+    background-color: white;
+    padding: 20px;
+}
+.quote-container{
+    display: flex;
+    background-color: #E5E7EB;
+    padding: 20px;
+}
+.signup-container{
+    display: flex;
+    background-color: white;
+    padding: 20px;
+}
+.footer-container{
+    display: flex;
+    background-color: #1F2937;
+    padding: 20px;
+}
