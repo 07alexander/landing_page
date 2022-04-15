@@ -79,5 +79,10 @@ img{
     padding: 20px 100px 20px 100px;
     margin: auto;
     color: white;
-
+}
+.footer-container p{
+    color: white;
+    text-align: center;
+    margin: auto;
+    padding: 20px;
 }
